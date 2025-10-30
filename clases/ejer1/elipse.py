@@ -5,4 +5,4 @@ class elipse:
         self.eje_mayor = eje_mayor
         self.eje_menor = eje_menor
     def __str__(self):
-        return ("Se ha creado una elipse de color"().format(self.color))
+        return ("Se ha creado una elipse de color"{}.format(self.color))
