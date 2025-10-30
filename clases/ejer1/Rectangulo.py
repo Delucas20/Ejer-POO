@@ -5,5 +5,5 @@ class rectngulo:
         self.anchura = anchura
         return(self.longitud, self.anchura)
     def __str__(self):
-        return ("Se ha creado una elipse de color"().format(self.color)
+        return ("Se ha creado una elipse de color"().format(self.color))
     

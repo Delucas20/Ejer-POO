@@ -4,4 +4,4 @@ class circulo:
         self.diametro = diametro
         return (self.diametro)
     def __str__(self):
-        return ("Se ha creado una elipse de color"().format(self.color)
+        return ("Se ha creado una elipse de color"().format(self.color))
