@@ -12,6 +12,6 @@ if __name__ == "__main__":
 
 from rectangulo import rectangulo 
 
-if __name__ == "main":
-        r1 = rectangulo("rojo",3)
+if __name__ == "__main__":
+        r1 = rectangulo("rojo", 3, 5)
         print(r1)
